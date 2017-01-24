@@ -8,8 +8,9 @@ Original software by BennVenn
 ## Mac OS requirements and setup
 
 - brew install python3
-- brew install pyusb
+- pip3 install pyusb
 - pip3 install tkinter
+- brew install libusb
 
 - Plug in cable and cart
 
