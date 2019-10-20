@@ -12,6 +12,14 @@ Original software by BennVenn
 - pip3 install tkinter (didn't seem needed on latest python3 update)
 - brew install libusb
 
+## Arch setup
+
+- yay -S python3
+- pip3 install --user pyusb
+- yay -S tk
+
+## Continued...
+
 - Plug in cable and cart
 
 - Run `Python3 JoeyJoebags3_18.py` in the cloned directory
